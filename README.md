@@ -138,7 +138,7 @@
 
   <!-- Subtitle -->
   <text x="450" y="140" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#aad4ff" letter-spacing="5" opacity="0">
-    ◆  FULL-STACK DEVELOPER  ·  AI BUILDER  ·  OPEN SOURCE  ◆
+    ◆  FULL-STACK DEVELOPER  ·  AI BUILDER  ·  OPEN SOURCE ·  Readme.md(on progress) ◆
     <animate attributeName="opacity" from="0" to="0.9" dur="0.8s" fill="freeze" begin="1s"/>
   </text>
 
@@ -1058,7 +1058,10 @@ Stack: React · Vite · Node · MongoDB
 
 <table align="center" border="0" width="85%">
 <tr>
-<td align="center">🏋️ Hits the gym <b>every</b> day — code & gains</td>
+<td align="center"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6">
+  <path strokeLinecap="round" strokeLinejoin="round" d="M9 17.25v1.007a3 3 0 0 1-.879 2.122L7.5 21h9l-.621-.621A3 3 0 0 1 15 18.257V17.25m6-12V15a2.25 2.25 0 0 1-2.25 2.25H5.25A2.25 2.25 0 0 1 3 15V5.25m18 0A2.25 2.25 0 0 0 18.75 3H5.25A2.25 2.25 0 0 0 3 5.25m18 0V12a2.25 2.25 0 0 1-2.25 2.25H5.25A2.25 2.25 0 0 1 3 12V5.25" />
+</svg>
+<b>every</b> day — code & gains</td>
 <td align="center">🌙 Most productive between <b>10 PM – 2 AM</b></td>
 </tr>
 <tr>
